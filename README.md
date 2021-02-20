@@ -7,6 +7,7 @@ $ pkg install git
 $ pip install requests bs4
 ```
 # RUN
+```
 $ git clone https://github.com/KURNIAW4TI/omg
 $ cd omg
 $ ls

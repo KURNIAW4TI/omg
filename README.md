@@ -5,6 +5,11 @@ $ pkg install python -y
 $ pkg install python
 $ pkg install git 
 $ pip install requests bs4
+$ pkg install mechanize
+$ pkg install git curl python
+$ pkg install ruby
+$ gem install lolcat
+$ termux-setup-storage
 ```
 # RUN
 ```

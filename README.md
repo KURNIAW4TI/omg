@@ -1,3 +1,5 @@
+<a href="https://github.com/KURNIAW4TI/omg"><img title="omg" src="https://github-readme-stats.vercel.app/api/pin/?username=KURNIAW4TI&repo=omg&theme=vision-friendly-dark"></a>
+<p align="center">
 # INSTALL
 ```
 $ pkg update && pkg upgrade
